@@ -2,6 +2,8 @@
 **SVP, Technical Solution Sales**  
 **Crayon United States**  
 
+![Bart Czernicki](https://github.com/bartczernicki/bio/raw/main/BartCzernicki-Headshot.jpg)
+
 Bart Czernicki is the Sr Vice President of Crayon’s Technical Solution Sales (Pre-Sales) in United States and an executive member of the Crayon US leadership team. Technical Solution Sales is responsible for Crayon’s relationship with their partners’ technical ecosystem. Bart and his team engage with customers, partners, startups, and enterprises throughout the globe. The team’s mission is to build the next generation of consumer and business applications, running in the cloud, using AI or leveraging emerging technologies.
 
 Prior to Crayon, Bart held entrepreneurial roles in both startup and corporate entities.
