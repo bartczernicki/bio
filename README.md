@@ -1,5 +1,5 @@
 **Bart Czernicki**  
-**Technology Leader, Sales, Advisor & Author - Global Cloud, Machine Intelligence, Information Systems, Decision Intelligence**
+**Technology Leader, Sales, Advisor & Author - Generative AI, Machine Intelligence, Decision Intelligence**
 
 ![Bart Czernicki](https://github.com/bartczernicki/bio/raw/main/BartCzernicki-Headshot.jpg)
 
