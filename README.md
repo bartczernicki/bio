@@ -11,4 +11,4 @@ Before his tenure at Microsoft, Bart was the Senior Vice President of Technology
 
 Bart's research passion includes research on Decision Intelligence, where he is currently writing his 3rd book: "Decision Intelligence - Optimize Decisions using Simple Mental Strategies & Heuristics"
 
-Connect with Bart via LinkeIn: https://www.linkedin.com/in/bartczernicki/  
+Connect with Bart via LinkedIn: https://www.linkedin.com/in/bartczernicki/  
