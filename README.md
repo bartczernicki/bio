@@ -9,6 +9,6 @@ Bart Czernicki brings a rich history of technology expertise and leadership to h
 
 Beyond his current contributions at Microsoft, Bart holds strategic positions as an entrepreneur and advisor for several pioneering AI startups and serves on the Management Board at Drexel University. Previously, as the Senior Vice President of Technology Solution Sales & Engineering at Crayon, he spearheaded technical partnerships and drove initiatives aimed at developing consumer and business applications of the future—harnessing cloud computing, AI, and emerging technologies to craft next-generation solutions.  
 
-Bart’s dedication to research in Decision Intelligence is paving the way to digitize decision-making with AI, and he is currently authoring his third book, Decision Intelligence – With Generative AI (expected late 2025).
+Bart’s dedication to research in Decision Intelligence is paving the way to digitize decision-making with AI, and he is currently authoring his third book, Decision Intelligence – With Generative AI (expected late 2026).
 
 Connect with Bart via LinkedIn: https://www.linkedin.com/in/bartczernicki/  
