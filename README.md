@@ -11,4 +11,6 @@ Beyond his current contributions at Microsoft, Bart holds strategic positions as
 
 Bart’s dedication to research in Decision Intelligence is paving the way to digitize decision-making with AI, and he is currently authoring his third book, Decision Intelligence – With Generative AI (expected late 2026).
 
+My latest book interactive site: https://www.DecisionIntelligenceBook.ai/ 
 Connect with Bart via LinkedIn: https://www.linkedin.com/in/bartczernicki/  
+
